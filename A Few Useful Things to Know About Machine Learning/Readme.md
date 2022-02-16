@@ -1,3 +1,4 @@
+<pre>
 A Few Useful Things to Know About Machine Learning
 
 •	A generalized notion of machine learning:
@@ -40,3 +41,4 @@ Contributors: -
 	3.)	Varun Bhardwaj (https://github.com/VARUN-BHARWAJ)
 	4.)	Suhayl Mahek (https://github.com/suhaylmahek)
 	5.)	Vishwanathan Vivek S (https://github.com/vviveks)
+</pre>
